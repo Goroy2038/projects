@@ -14,7 +14,7 @@
   \**********************/
 /***/ (() => {
 
-eval("clearButton.onclick = function(){\r\n    input1Value.value = \"\";\r\n    input2Value.value = \"\";\r\n    result.value = \"\";\r\n    input1Value.focus();\r\n}\r\n\n\n//# sourceURL=webpack://project1/./src/clear.js?");
+eval("clearButton.onclick = function () {\n  input1Value.value = \"\";\n  input2Value.value = \"\";\n  result.value = \"\";\n  input1Value.focus();\n};\n\n//# sourceURL=webpack://project1/./src/clear.js?");
 
 /***/ })
 

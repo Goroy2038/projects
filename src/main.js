@@ -1,4 +1,5 @@
 import ("./clear.js");
+import "./style.css";
 
 let input1Value = document.getElementById("input1Value");
 let input2Value = document.getElementById("input2Value");
